@@ -1,0 +1,15 @@
+﻿  Sorting.c
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Sorting\Sorting.c(247,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Sorting\Sorting.c(248,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Sorting\Sorting.c(249,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Sorting\Sorting.c(251,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.c
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Sorting\main.c(226,12): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Sorting\main.c(230,38): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Sorting\main.c(230,38): warning C4028: formal parameter 1 different from declaration
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Sorting\main.c(235,35): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Sorting\main.c(235,35): warning C4028: formal parameter 1 different from declaration
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Sorting\main.c(239,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Sorting\main.c(239,12): message : consider using '%zd' in the format string
+  Generating Code...
+  Sorting.vcxproj -> C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\x64\Debug\Sorting.exe

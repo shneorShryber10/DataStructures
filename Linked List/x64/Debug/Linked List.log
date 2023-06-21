@@ -1,0 +1,5 @@
+﻿  singelyLinkList.c
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Linked List\singelyLinkList.c(191,62): warning C4028: formal parameter 3 different from declaration
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Linked List\singelyLinkList.c(353,11): warning C4098: 'PrintfFromEnd': 'void' function returning a value
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\Linked List\singelyLinkList.c(363,12): warning C4101: 'tempPer': unreferenced local variable
+  Linked List.vcxproj -> C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\x64\Debug\Linked List.exe
