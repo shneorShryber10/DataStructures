@@ -1,0 +1,17 @@
+﻿  GenVector.c
+  main.c
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(70,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(70,12): message : consider using '%zd' in the format string
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(74,37): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(74,37): warning C4028: formal parameter 1 different from declaration
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(83,38): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(83,38): warning C4028: formal parameter 1 different from declaration
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(88,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(88,12): message : consider using '%zd' in the format string
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(91,37): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(91,37): warning C4028: formal parameter 1 different from declaration
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(64,14): warning C4101: 'found': unreferenced local variable
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\GenVector\main.c(62,10): warning C4101: 'del': unreferenced local variable
+  ADTDefs.c
+  Generating Code...
+  GenVector.vcxproj -> C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\x64\Debug\GenVector.exe

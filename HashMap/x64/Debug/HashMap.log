@@ -1,0 +1,15 @@
+﻿  singelyLinkList.c
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\HashMap\singelyLinkList.c(45,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\HashMap\singelyLinkList.c(45,10): message : consider using '%zd' in the format string
+  test.c
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\HashMap\test.c(25,34): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\HashMap\test.c(25,30): warning C4024: 'MapInsert': different types for formal and actual parameter 3
+  HashMap.c
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\HashMap\HashMap.c(46,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\HashMap\HashMap.c(114,60): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\HashMap\HashMap.c(109,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\HashMap\HashMap.c(111,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\HashMap\HashMap.c(160,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ADTDefs.c
+  Generating Code...
+  HashMap.vcxproj -> C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\x64\Debug\HashMap.exe

@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\BinaryTree\test.c(10,9): warning C4101: 'eErr': unreferenced local variable
+  BinaryTree.vcxproj -> C:\Users\Administrator\Desktop\קורס תוכנה\DataStructures\x64\Debug\BinaryTree.exe
